@@ -101,7 +101,7 @@ open it and using the back button on your browser to move to a previous level.
 Nextcloud also provides a navigation bar at the top of the Files field for quick
 navigation.
 
-Sharing status icons
+Sharing status icons 
 --------------------
 
 Any folder that has been shared is marked with the ``Shared`` overlay icon.
